@@ -1,0 +1,8 @@
+{
+
+ "id":"sudoers",
+ "comment":"super users",
+ "gid":0,
+ "members":[ "admin", "user", "obroni" ]
+
+}

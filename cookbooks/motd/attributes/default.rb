@@ -1,0 +1,5 @@
+
+
+ default["motd"]["company"] = "PureGem"
+
+
